@@ -2,8 +2,8 @@ import "./App.css";
 
 function App() {
   return (
-      </p>
-      
+      <div>
+      <p className='Box' />
     </div>
   );
 }
