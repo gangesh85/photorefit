@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "fName": "Gangesh",
+      "lName": "Yadav",
+      "contact": 9892902452,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 1
+    },
+    {
+      "fName": "Kunal",
+      "lName": "Yadav",
+      "contact": 9892902452,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 2
+    },
+    {
+      "fName": "Chaitanya",
+      "lName": "Yadav",
+      "contact": 9892902452,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 3
+    },
+    {
+      "fName": "Deepesh",
+      "lName": "Yadav",
+      "contact": 9892902452,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 4
+    },  
+    {
+      "fName": "Seema",
+      "lName": "Yadav",
+      "contact": 9067254576,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 5
+    },
+    {
+      "fName": "Mangesh",
+      "lName": "Yadav",
+      "contact": 9892902452,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 6
+    },
+    {
+      "fName": "Omkarnath",
+      "lName": "Yadav",
+      "contact": 9326190236,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 7
+    },
+    {
+      "fName": "Lalti",
+      "lName": "Yadav",
+      "contact": 9326190236,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 8
+    },
+    {
+      "fName": "Rekha",
+      "lName": "Yadav",
+      "contact": 9426173042,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 9
+    },
+    {
+      "fName": "Renu",
+      "lName": "Yadav",
+      "contact": 9328637289,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 10
+    },
+    {
+      "fName": "Brijesh",
+      "lName": "Yadav",
+      "contact": 9426123042,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 11
+    },
+    {
+      "fName": "Shashee",
+      "lName": "Yadav",
+      "contact": 9426123042,
+      "email": "gangesh30624@gmail.com",
+      "password": "asdfasdf",
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    }
+  ],
+  "orders": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
